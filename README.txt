@@ -1,0 +1,1 @@
+Je zult het project waarschijnlijk niet kunnen runnen, omdat je machine geen Flutter en Laravel ondersteunt en je ook de database mist. Als je de app wilt bekijken, kun je het beste contact met me opnemen. Misschien kan ik ook iets in Docker opzetten, zodat het wel mogelijk wordt.
